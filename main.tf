@@ -1,7 +1,7 @@
 provider "aws" {
   region     = "us-east-2"
-  access_key = "AKIA3S42UEXNXG4SN7Q2"
-  secret_key = "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"
+  access_key = ""
+  secret_key = "
 }
 
 resource "aws_instance" "deleteme" {
