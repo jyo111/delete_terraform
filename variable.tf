@@ -14,7 +14,7 @@ variable "project_environment" {
 }
 
 variable "iam_user_name" {
-  description  = "give name to the iam user"
+  description  = "give name to the iam user ha ha"
   type         = list(string)
   default      = ["a", "b", "c"]
  }
